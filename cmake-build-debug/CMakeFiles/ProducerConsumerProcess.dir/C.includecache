@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matio/CLionProjects/ProducerConsumerProcess/main.c
+stdio.h
+-
+stdlib.h
+-
+semaphore.h
+-
+sys/types.h
+-
+sys/shm.h
+-
+sys/ipc.h
+-
+zconf.h
+-
+

@@ -1,0 +1,3 @@
+/home/matio/CLionProjects/ProducerConsumerProcess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matio/CLionProjects/ProducerConsumerProcess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matio/CLionProjects/ProducerConsumerProcess/cmake-build-debug/CMakeFiles/ProducerConsumerProcess.dir

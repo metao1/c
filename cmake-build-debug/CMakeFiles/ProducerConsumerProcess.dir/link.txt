@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/ProducerConsumerProcess.dir/main.c.o  -o ProducerConsumerProcess 
